@@ -1,0 +1,29 @@
+{
+   "mySong1" : {
+      "songname" : "WhatisLove",
+      "artist" : "Twice",
+      "Genre" : "KPOP",
+      "Link": "https://youtu.be/i0p1bmr0EmE"
+
+   },
+   
+   "mySong2" : {
+      "songname" : "DanceTheNightAway",
+      "artist" : "Twice",
+      "Genre" : "KPOP",
+      "Link": "https://youtu.be/Fm5iP0S1z9w"
+   },
+   
+   "mySong3" : {
+      "songname" : "YesorYes",
+      "artist" : "Twice",
+      "Genre" : "KPOP",
+      "Link": "https://youtu.be/mAKsZ26SabQ"
+   }
+
+   "mySong4" : {
+      "songname" : "HeathShaker",
+      "artist" : "Twice",
+      "Genre" : "KPOP",
+      "Link": "https://youtu.be/rRzxEiBLQCA"
+   }
